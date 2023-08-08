@@ -1,3 +1,2 @@
 #!/bin/bash
 TRUEKNOWLEDGE=$(expr $TRUEKNOWLEDGE + 128)
-
